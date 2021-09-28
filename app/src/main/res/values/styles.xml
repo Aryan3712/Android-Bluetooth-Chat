@@ -5,6 +5,12 @@
         <item name="colorPrimary">@color/purple_700</item>
         <item name="colorPrimaryDark">@color/black</item>
     </style>
+    <style name="ChatActivity" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorOnBackground"> @color/forest_green</item>
+    </style>
+    <style name="FindPeople" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorOnBackground"> @color/forest_green</item>
+    </style>
     <style name="SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
 
     </style>

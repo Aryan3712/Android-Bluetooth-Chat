@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-    <item android:id="@+id/bluetooth_on_off"
-        android:icon="@drawable/ic_bluetooth_24"
-        android:title="bluetooth_on_off"
-        app:showAsAction="always"/>
 
-    <item android:id="@+id/search_people"
-        android:icon="@drawable/ic_find_people"
-        android:title="find_people"
-        app:showAsAction="always"/>
 
+    <item android:id="@+id/main_refresh"
+        android:title="refresh_button"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_refresh_24"/>
+
+    <item android:id="@+id/main_people"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="people_button"
+        app:showAsAction="always"/>
 </menu>

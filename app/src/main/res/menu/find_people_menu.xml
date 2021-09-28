@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-    <item android:id="@+id/add_people"
-        android:icon="@drawable/ic_find_people"
-        android:title="refresh_button_"
-        app:showAsAction="always"/>
+    <item android:id="@+id/find_people"
+        android:icon="@drawable/ic_baseline_people_24"
+        app:showAsAction="always"
+        android:title="find_people_"/>
 </menu>

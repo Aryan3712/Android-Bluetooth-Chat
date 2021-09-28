@@ -1,4 +1,4 @@
-package com.aryanwalia.nearblue;
+package com.aryanwalia.connect;
 
 import org.junit.Test;
 

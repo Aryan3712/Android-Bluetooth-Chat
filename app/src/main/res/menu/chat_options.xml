@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/help_section"
+        android:title="help"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/bluetooth_on_off"
+        android:icon="@drawable/ic_baseline_bluetooth_24"
+        android:title="bluetooth_on"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/server"
+        android:icon="@drawable/ic_baseline_language_24"
+        android:title="become_server"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/list_devices"
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:title="list_devices"
+        app:showAsAction="always"/>
+</menu>
