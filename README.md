@@ -31,4 +31,7 @@ https://drive.google.com/file/d/1nnWc0wDJThrM4OKzAVjb-EF2iPJSueMs/view?usp=shari
 	<img src="https://i.ibb.co/CwW1d8p/Screenshot-20210928-180244.jpg" width="350" height="600" alt="Screenshot-20210928-180244" border="0">
 	<img src="https://i.ibb.co/BBqySGW/Screenshot-20210928-180300.jpg" width="350" height="600" alt="Screenshot-20210928-180300" border="0">
 	<img src="https://i.ibb.co/r58RgyC/Screenshot-20210928-180318.jpg" width="350" height="600" alt="Screenshot-20210928-180318" border="0">
+	<img src="https://i.ibb.co/HY8T2c2/Screenshot-20210928-180427.jpg" width="350" height="600" alt="Screenshot-20210928-180427" border="0">
+	<img src="https://i.ibb.co/8zHtmwP/IMG-20210928-WA0002.jpg"  width="350" height="600" alt="IMG-20210928-WA0002" border="0">
+	<img src="https://i.ibb.co/SnktS8L/Screenshot-20210928-180459.jpg" width="350" height="600" alt="Screenshot-20210928-180459" border="0">
 </p>
