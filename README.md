@@ -22,7 +22,10 @@ Project is created with:
 	
 ## Setup
 To run this project, either clone this repository or download and use the apk from the given link:
-
-'''
 https://drive.google.com/file/d/1nnWc0wDJThrM4OKzAVjb-EF2iPJSueMs/view?usp=sharing
-'''
+
+## Sample Images
+
+<p align="center">
+  <img src="https://ibb.co/k6Rx1BL" width="350" title="hover text">
+</p>
