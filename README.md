@@ -28,4 +28,5 @@ https://drive.google.com/file/d/1nnWc0wDJThrM4OKzAVjb-EF2iPJSueMs/view?usp=shari
 
 <p align="center">
 	<img src="https://i.ibb.co/LhL85RT/Screenshot-20210928-180238.jpg" width="350" height="600" alt="Screenshot-20210928-180238" border="0">
+	<img src="https://i.ibb.co/CwW1d8p/Screenshot-20210928-180244.jpg" width="350" height="600" alt="Screenshot-20210928-180244" border="0">
 </p>
