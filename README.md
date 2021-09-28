@@ -27,5 +27,5 @@ https://drive.google.com/file/d/1nnWc0wDJThrM4OKzAVjb-EF2iPJSueMs/view?usp=shari
 ## Sample Images
 
 <p align="center">
-<img src="https://i.ibb.co/k6Rx1BL/Screenshot-20210928-180238.jpg" alt="Screenshot-20210928-180238" border="0"></a>
+	<img src="https://i.ibb.co/LhL85RT/Screenshot-20210928-180238.jpg" alt="Screenshot-20210928-180238" border="0">
 </p>
